@@ -118,7 +118,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -172,3 +171,5 @@ config.backup.yaml
 runtime/
 dev/
 installer_files/
+config.bat
+node_modules
